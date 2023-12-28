@@ -1,8 +1,9 @@
 ---
 layout: page
-title: project 4
-description: another without an image
-img:
+title: movies
+description: worked on an ML movie recommender
+img: assets/img/4.jpg
+redirect: https://github.com/SamarthArul/MovieRecs
 importance: 3
 category: fun
 ---

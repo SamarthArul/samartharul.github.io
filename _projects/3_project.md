@@ -1,9 +1,9 @@
 ---
 layout: page
-title: project 3
-description: a project that redirects to another website
-img: assets/img/7.jpg
-redirect: https://unsplash.com
+title: Research
+description: Co-Authored Report 42 (COVID States Project)
+img: assets/img/3.jpg
+redirect: https://www.covidstates.org/reports/trajectory-of-health-related-behaviors-in-new-york
 importance: 3
 category: work
 ---

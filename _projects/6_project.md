@@ -1,9 +1,10 @@
 ---
 layout: page
-title: project 6
-description: a project with no image
-img:
-importance: 4
+title: NU EA
+description: I'm on the board of Northwestern EA. The Daily did a feature on us.
+img: assets/img/6.jpg
+redirect: https://dailynorthwestern.com/2023/04/26/campus/effective-altruism-northwestern-explores-what-it-means-to-improve-the-world/
+importance: 3
 category: fun
 ---
 

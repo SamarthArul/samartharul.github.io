@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
-img: assets/img/12.jpg
-importance: 1
+title: AI Writing
+description: I write for RAISO. See our website here.
+img: assets/img/1.jpg
+redirect: https://www.raiso.org/
+importance: 3
 category: work
-related_publications: einstein1956investigations, einstein1950meaning
 ---
 
 Every project has a beautiful feature showcase page.
