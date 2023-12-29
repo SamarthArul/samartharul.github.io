@@ -20,6 +20,6 @@ Welcome.
 
 I am an undergraduate at Northwestern studying Computer Science and Mathematics.
 
-I am particularly interested in software, venture, and start-ups. I am currently working to democratize small-business financing at Kitchen Kapital (Jumpstart '23).
+I am particularly interested in software, venture, and start-ups. I am currently working to help democratize small-business financing at Kitchen Kapital (Jumpstart '23).
 
 You can reach me at SamarthArul [at] gmail [dot] com.
