@@ -1,9 +1,9 @@
 ---
 layout: page
-title: AI Writing
-description: I write for RAISO. See our website here.
-img: assets/img/1.jpg
-redirect: https://www.raiso.org/
+title: FYND
+description: Social network for new grads. Awarded 2nd Place at WildHacks '24.
+img: assets/img/1.png
+redirect: https://www.mccormick.northwestern.edu/computer-science/news-events/news/articles/2024/wildhacks-2024-showcases-students-dynamic-problem-solving-skills.html
 importance: 3
 category: work
 ---

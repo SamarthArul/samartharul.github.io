@@ -1,9 +1,9 @@
 ---
 layout: page
-title: NU EA
-description: I'm on the board of Northwestern EA. The Daily did a feature on us.
+title: tech writing
+description: I wrote for the RAISO newsletter "Hold the Code." See our website here.
 img: assets/img/6.jpg
-redirect: https://dailynorthwestern.com/2023/04/26/campus/effective-altruism-northwestern-explores-what-it-means-to-improve-the-world/
+redirect: https://www.raiso.org/
 importance: 3
 category: fun
 ---

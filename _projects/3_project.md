@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Research
-description: Co-Authored Report 42 (COVID States Project)
+description: Co-Authored Report 42 at the COVID States Project (with the NU IPR)
 img: assets/img/3.jpg
 redirect: https://www.covidstates.org/reports/trajectory-of-health-related-behaviors-in-new-york
 importance: 3

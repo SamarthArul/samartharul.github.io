@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Tech Pitches
-description: I was a tech analyst at NU IMG.
-img: assets/img/2.jpg
-redirect: https://www.nuimg.org/
+title: networks
+description: Primary data engineer for orchestra social network analysis project.
+img: assets/img/2.png
+redirect: https://docs.google.com/presentation/d/1vwRp-twvHE7Ls7E-Iuwj9QpsQPialWdMoBlz3STqhNQ/edit?usp=sharing
 importance: 3
 category: work
 ---
