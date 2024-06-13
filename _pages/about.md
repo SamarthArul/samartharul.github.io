@@ -18,8 +18,8 @@ social: true  #  social icons at the bottom of the page
 
 Hey there!
 
-My name is Samarth Arul. I'm an undergraduate at Northwestern University studying Computer Science and Mathematics.
+My name is Samarth Arul. I'm an undergraduate at [Northwestern University](https://www.northwestern.edu) studying Computer Science and Mathematics.
 
-I am particularly interested in software, fintech, and venture. This summer, I'll be interning at the Options Clearing Corporation in Chicago. Previously, I've interned/worked at Kitchen Kapital (Engineering Intern), the Institute for Policy Research (Research Assistant), Illinois Tech (Research Intern), and Noodles & Company (Cashier and Pasta Enthusiast).
+I am particularly interested in software, fintech, and venture. This summer, I'll be interning at the [Options Clearing Corporation](https://www.theocc.com) in Chicago. Previously, I've interned/worked at [Kitchen Kapital](https://www.thegarage.northwestern.edu/programs/the-residency-program) (Engineering Intern), the [Institute for Policy Research](https://www.ipr.northwestern.edu/) (Research), [Illinois Tech](https://www.iit.edu/) (Research), and [Noodles & Company](https://en.wikipedia.org/wiki/Noodles_%26_Company) (Cashier and Pasta Enthusiast).
 
 Shoot me an email at SamarthArul [at] gmail [dot] com.
