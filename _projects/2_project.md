@@ -1,6 +1,6 @@
 ---
 layout: page
-title: networks
+title: SNAP Networks
 description: Primary data engineer for orchestra social network analysis project.
 img: assets/img/2.png
 redirect: https://docs.google.com/presentation/d/1vwRp-twvHE7Ls7E-Iuwj9QpsQPialWdMoBlz3STqhNQ/edit?usp=sharing
