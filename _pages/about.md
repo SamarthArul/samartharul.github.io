@@ -16,10 +16,10 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  #  social icons at the bottom of the page
 ---
 
-Welcome.
+Hey there!
 
-I am an undergraduate at Northwestern studying Computer Science and Mathematics.
+My name is Samarth Arul. I'm an undergraduate at Northwestern University studying Computer Science and Mathematics.
 
-I am particularly interested in software, venture, and start-ups. I am currently working to help democratize small-business financing at Kitchen Kapital (Jumpstart '23).
+I am particularly interested in software, fintech, and venture. This summer, I'll be interning at the Options Clearing Corporation in Chicago. Previously, I've interned/worked at Kitchen Kapital (Engineering Intern), the Institute for Policy Research (Research Assistant), Illinois Tech (Research Intern), and Noodles & Company (Cashier and Pasta Enthusiast).
 
-You can reach me at SamarthArul [at] gmail [dot] com.
+Shoot me an email at SamarthArul [at] gmail [dot] com.
