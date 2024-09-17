@@ -1,8 +1,7 @@
 ---
 layout: page
 title: tech writing
-description: I wrote for the RAISO newsletter "Hold the Code." See our website here.
-img: assets/img/6.jpg
+description: I wrote for the RAISO newsletter "Hold the Code."
 redirect: https://www.raiso.org/
 importance: 3
 category: fun
