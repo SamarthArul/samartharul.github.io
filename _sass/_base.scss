@@ -162,7 +162,7 @@ blockquote {
 // Profile
 
 .profile {
-  width: 45%;
+  width: 42%;
 
   .more-info {
     margin-bottom: 5px;
@@ -507,6 +507,13 @@ footer.sticky-bottom {
     display: unset;
   }
 }
+/* Reduce padding for .post-title on smaller screens */
+@media (max-width: 576px) {
+  .post-title {
+    margin-top: -2.75rem; /* Adjust the padding as needed */
+  }
+}
+
 
 .post-list {
   margin: 0;

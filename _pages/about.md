@@ -24,4 +24,4 @@ I am particularly interested in distributed systems, computer networks, and clou
 
 Previously, I've interned/worked at [Kitchen Kapital](https://www.thegarage.northwestern.edu/programs/the-residency-program) (Engineering Intern), the [Institute for Policy Research](https://www.ipr.northwestern.edu/) (Research), [Illinois Tech](https://www.iit.edu/) (Research), and [Noodles & Company](https://en.wikipedia.org/wiki/Noodles_%26_Company) (Cashier and Pasta Enthusiast).
 
-I'm always looking for exciting technical problems to solve -- shoot me a message at SamarthArul@gmail.com.
+I'm always looking for exciting technical problems to solve -- contact me at SamarthArul@gmail.com.
